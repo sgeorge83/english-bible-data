@@ -1,0 +1,22 @@
+{
+  "book": 19,
+  "book_name": "Psalms",
+  "chapter": 117,
+  "verse_count": 2,
+  "verses": [
+    {
+      "book_name": "Psalms",
+      "book": 19,
+      "chapter": 117,
+      "verse": 1,
+      "text": "Praise Yahweh, all you nations! Extol him, all you peoples!"
+    },
+    {
+      "book_name": "Psalms",
+      "book": 19,
+      "chapter": 117,
+      "verse": 2,
+      "text": "For his loving kindness is great toward us. Yahweh's faithfulness endures forever. Praise Yah!"
+    }
+  ]
+}

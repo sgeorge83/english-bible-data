@@ -1,0 +1,29 @@
+{
+  "book": 19,
+  "book_name": "Psalms",
+  "chapter": 134,
+  "verse_count": 3,
+  "verses": [
+    {
+      "book_name": "Psalms",
+      "book": 19,
+      "chapter": 134,
+      "verse": 1,
+      "text": "Look! Praise Yahweh, all you servants of Yahweh, who stand by night in Yahweh's house!"
+    },
+    {
+      "book_name": "Psalms",
+      "book": 19,
+      "chapter": 134,
+      "verse": 2,
+      "text": "Lift up your hands in the sanctuary. Praise Yahweh!"
+    },
+    {
+      "book_name": "Psalms",
+      "book": 19,
+      "chapter": 134,
+      "verse": 3,
+      "text": "May Yahweh bless you from Zion; even he who made heaven and earth."
+    }
+  ]
+}

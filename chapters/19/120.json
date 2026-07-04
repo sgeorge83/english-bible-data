@@ -1,0 +1,57 @@
+{
+  "book": 19,
+  "book_name": "Psalms",
+  "chapter": 120,
+  "verse_count": 7,
+  "verses": [
+    {
+      "book_name": "Psalms",
+      "book": 19,
+      "chapter": 120,
+      "verse": 1,
+      "text": "In my distress, I cried to Yahweh. He answered me."
+    },
+    {
+      "book_name": "Psalms",
+      "book": 19,
+      "chapter": 120,
+      "verse": 2,
+      "text": "Deliver my soul, Yahweh, from lying lips, from a deceitful tongue."
+    },
+    {
+      "book_name": "Psalms",
+      "book": 19,
+      "chapter": 120,
+      "verse": 3,
+      "text": "What will be given to you, and what will be done more to you, you deceitful tongue?"
+    },
+    {
+      "book_name": "Psalms",
+      "book": 19,
+      "chapter": 120,
+      "verse": 4,
+      "text": "Sharp arrows of the mighty, with coals of juniper."
+    },
+    {
+      "book_name": "Psalms",
+      "book": 19,
+      "chapter": 120,
+      "verse": 5,
+      "text": "Woe is me, that I live in Meshech, that I dwell among the tents of Kedar!"
+    },
+    {
+      "book_name": "Psalms",
+      "book": 19,
+      "chapter": 120,
+      "verse": 6,
+      "text": "My soul has had her dwelling too long with him who hates peace."
+    },
+    {
+      "book_name": "Psalms",
+      "book": 19,
+      "chapter": 120,
+      "verse": 7,
+      "text": "I am for peace, but when I speak, they are for war. A Song of Ascents."
+    }
+  ]
+}

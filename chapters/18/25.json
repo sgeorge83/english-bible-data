@@ -1,0 +1,50 @@
+{
+  "book": 18,
+  "book_name": "Job",
+  "chapter": 25,
+  "verse_count": 6,
+  "verses": [
+    {
+      "book_name": "Job",
+      "book": 18,
+      "chapter": 25,
+      "verse": 1,
+      "text": "Then Bildad the Shuhite answered,"
+    },
+    {
+      "book_name": "Job",
+      "book": 18,
+      "chapter": 25,
+      "verse": 2,
+      "text": "\"Dominion and fear are with him. He makes peace in his high places."
+    },
+    {
+      "book_name": "Job",
+      "book": 18,
+      "chapter": 25,
+      "verse": 3,
+      "text": "Can his armies be counted? On whom does his light not arise?"
+    },
+    {
+      "book_name": "Job",
+      "book": 18,
+      "chapter": 25,
+      "verse": 4,
+      "text": "How then can man be just with God? Or how can he who is born of a woman be clean?"
+    },
+    {
+      "book_name": "Job",
+      "book": 18,
+      "chapter": 25,
+      "verse": 5,
+      "text": "Behold, even the moon has no brightness, and the stars are not pure in his sight;"
+    },
+    {
+      "book_name": "Job",
+      "book": 18,
+      "chapter": 25,
+      "verse": 6,
+      "text": "How much less man, who is a worm, the son of man, who is a worm!\""
+    }
+  ]
+}

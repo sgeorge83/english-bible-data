@@ -1,0 +1,43 @@
+{
+  "book": 19,
+  "book_name": "Psalms",
+  "chapter": 127,
+  "verse_count": 5,
+  "verses": [
+    {
+      "book_name": "Psalms",
+      "book": 19,
+      "chapter": 127,
+      "verse": 1,
+      "text": "Unless Yahweh builds the house, they labor in vain who build it. Unless Yahweh watches over the city, the watchman guards it in vain."
+    },
+    {
+      "book_name": "Psalms",
+      "book": 19,
+      "chapter": 127,
+      "verse": 2,
+      "text": "It is vain for you to rise up early, to stay up late, eating the bread of toil; for he gives sleep to his loved ones."
+    },
+    {
+      "book_name": "Psalms",
+      "book": 19,
+      "chapter": 127,
+      "verse": 3,
+      "text": "Behold, children are a heritage of Yahweh. The fruit of the womb is his reward."
+    },
+    {
+      "book_name": "Psalms",
+      "book": 19,
+      "chapter": 127,
+      "verse": 4,
+      "text": "As arrows in the hand of a mighty man, so are the children of youth."
+    },
+    {
+      "book_name": "Psalms",
+      "book": 19,
+      "chapter": 127,
+      "verse": 5,
+      "text": "Happy is the man who has his quiver full of them. They won't be disappointed when they speak with their enemies in the gate. A Song of Ascents."
+    }
+  ]
+}

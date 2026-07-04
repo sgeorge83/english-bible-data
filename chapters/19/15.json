@@ -1,0 +1,43 @@
+{
+  "book": 19,
+  "book_name": "Psalms",
+  "chapter": 15,
+  "verse_count": 5,
+  "verses": [
+    {
+      "book_name": "Psalms",
+      "book": 19,
+      "chapter": 15,
+      "verse": 1,
+      "text": "Yahweh, who shall dwell in your sanctuary? Who shall live on your holy hill?"
+    },
+    {
+      "book_name": "Psalms",
+      "book": 19,
+      "chapter": 15,
+      "verse": 2,
+      "text": "He who walks blamelessly does what is right, and speaks truth in his heart;"
+    },
+    {
+      "book_name": "Psalms",
+      "book": 19,
+      "chapter": 15,
+      "verse": 3,
+      "text": "He who doesn't slander with his tongue, nor does evil to his friend, nor casts slurs against his fellow man;"
+    },
+    {
+      "book_name": "Psalms",
+      "book": 19,
+      "chapter": 15,
+      "verse": 4,
+      "text": "In whose eyes a vile man is despised, but who honors those who fear Yahweh; he who keeps an oath even when it hurts, and doesn't change;"
+    },
+    {
+      "book_name": "Psalms",
+      "book": 19,
+      "chapter": 15,
+      "verse": 5,
+      "text": "he who doesn't lend out his money for usury, nor take a bribe against the innocent. He who does these things shall never be shaken. A Poem by David."
+    }
+  ]
+}
